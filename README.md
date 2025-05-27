@@ -74,7 +74,7 @@
 
 ``` bash
 # Clone the repository
-git clone https://github.com/ahansardar/speedsync.git
+git clone https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides.git
 cd speedsync
 
 # Install dependencies
@@ -177,7 +177,7 @@ speedsync/
 ## 🚀 Deployment
 
 ### Vercel (Recommended)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/speedsync)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides.git)
 
 ### Manual Deployment
 
@@ -224,14 +224,13 @@ docker run -p 3000:3000 speedsync
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! 
 
 ### Development Setup
 
 ```bash
 # Fork and clone the repo
-git clone https://github.com/yourusername/speedsync.git
-
+git clone https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides.git
 # Create a feature branch
 git checkout -b feature/amazing-feature
 
@@ -329,9 +328,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: ahansardarvis@gmail.com
 
 ### Support
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/speedsync/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/speedsync/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/speedsync/wiki)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides/discussions)
+- 📖 **Documentation**: [Wiki](https://github.com/ahansardar/SpeedSync---A-Speedometer-For-All-Your-Rides/wiki)
 
 ---
 
