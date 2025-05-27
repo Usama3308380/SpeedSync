@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PWA-Ready-4285F4?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA Ready" />
+ <img src ="https://img.shields.io/badge/🚀-Try%20Live%20Demo-blue?style=for-the-badge"/>(https://speedsync.vercel.app)
+
 </div>
 
 <div align="center">
